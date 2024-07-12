@@ -1,2 +1,2 @@
 # To-Do-List
-A simple to-do list application created using HTML and CSS that allows users to manage their daily tasks efficiently.
+A simple to-do list application created using HTML and CSS allows users to manage their daily tasks efficiently. The user interface consists of a text input field where users can enter their tasks. Each task is displayed with a checkbox next to it. Once a task is completed, the user can tick the checkbox, visually marking the task as done. The design is clean and intuitive, making it easy for users to add and check off tasks, helping them stay organized throughout the day.
